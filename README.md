@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on using biological data as input for DL models.
-- 🌱 I’m currently learning bioinformatics, SQL and GNNs.
+- 🔭 I’m currently working on using biological data as input for ML models.
+- 🌱 I’m currently learning big data and cloud computing tools.
 - 👯 I’m looking to collaborate on ML projects.
 - ⚡ Fun fact: I love to play drums/guitar. Actual melomaniac.
 <!--
